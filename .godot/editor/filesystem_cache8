@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1700553305
+::res://::1700598561
 README.md::TextFile::-1::1700553242::0::1::::<><>::
 ::res://addons/::1700553305
 ::res://addons/script-ide/::1700553307
@@ -7,7 +7,7 @@ plugin.cfg::TextFile::-1::1700553306::0::1::::<><>::
 plugin.gd::GDScript::-1::1700553307::0::1::::<>EditorPlugin<>::
 Popup.gd::GDScript::-1::1700553306::0::1::::<>PopupPanel<>::
 README.md::TextFile::-1::1700553306::0::1::::<><>::
-::res://addons/script-ide/icon/::1700553306
+::res://addons/script-ide/icon/::1700553307
 class.svg::CompressedTexture2D::6053420662074102680::1700553306::1700553307::1::::<><>::
 constant.svg::CompressedTexture2D::4818432523983973636::1700553306::1700553307::1::::<><>::
 export.svg::CompressedTexture2D::3903324726954799790::1700553306::1700553307::1::::<><>::
@@ -596,6 +596,8 @@ spritesheet.png::CompressedTexture2D::3790589825381647334::1700552093::170055212
 2.png::CompressedTexture2D::1406162033889832129::1700552093::1700552127::1::::<><>::
 3.png::CompressedTexture2D::4908590417623510743::1700552093::1700552127::1::::<><>::
 ::res://GUI/::1700552180
-::res://Scenes/::1700553300
-Main.tscn::PackedScene::2931258609843378316::1700553300::0::1::::<><>::
-::res://Scripts/::1700552194
+::res://Scenes/::1700598539
+Main.tscn::PackedScene::2931258609843378316::1700559354::0::1::::<><>::uid://cr3n44ywf2ggx::::res://Scenes/Player.tscn
+Player.tscn::PackedScene::6024696956535421923::1700598539::0::1::::<><>::res://Scripts/Player.gd<>uid://d0djok8y1fmuk::::res://Assets/Player/Player Front Sheet.png<>uid://bkn51u0pped7v::::res://Assets/Player/Player Side Sheet.png<>uid://d2j6cf5ctielj::::res://Assets/Player/Player Back Sheet.png
+::res://Scripts/::1700560486
+Player.gd::GDScript::-1::1700560486::0::1::::<>CharacterBody2D<>::

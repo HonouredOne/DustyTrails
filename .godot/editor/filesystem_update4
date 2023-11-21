@@ -1,4 +1,3 @@
-res://Scenes/Main.tscn
-res://README.md
 res://Scenes/Player.tscn
 res://Scripts/Player.gd
+res://Scenes/Main.tscn
