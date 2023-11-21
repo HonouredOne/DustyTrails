@@ -1,0 +1,584 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1700552354
+::res://Assets/::1700552127
+Atlas.png::CompressedTexture2D::5524096581509984379::1700552089::1700552127::1::::<><>::
+Interior.png::CompressedTexture2D::385207028988604070::1700552092::1700552127::1::::<><>::
+Water.png::CompressedTexture2D::363918948984786093::1700552093::1700552127::1::::<><>::
+::res://Assets/Buildings/::1700552134
+Bed.png::CompressedTexture2D::663031529634623448::1700552089::1700552133::1::::<><>::
+Building.png::CompressedTexture2D::1009890107382834416::1700552089::1700552133::1::::<><>::
+buildings.png::CompressedTexture2D::7981146041299294616::1700552089::1700552134::1::::<><>::
+House.png::CompressedTexture2D::6985251617373435672::1700552089::1700552133::1::::<><>::
+::res://Assets/Font/::1700552133
+ARCADECLASSIC.TTF::FontFile::819806363140948438::1700552089::1700552095::1::::<><>::
+Font.png::CompressedTexture2D::276962276390065229::1700552089::1700552133::1::::<><>::
+LaTequila.ttf::FontFile::9153240446369734999::1700552089::1700552095::1::::<><>::
+Schrödinger.ttf::FontFile::7733249688537773675::1700552089::1700552095::1::::<><>::
+::res://Assets/FX/::1700552133
+Death Explosion.png::CompressedTexture2D::6576617573014198515::1700552089::1700552133::1::::<><>::
+::res://Assets/FX/Music/::1700552089
+::res://Assets/FX/Music/Free Retro SFX by @inertsongs/::1700552140
+Imposter Syndrome (theme).wav::AudioStreamWAV::636676784227978147::1700552089::1700552140::1::::<><>::
+::res://Assets/FX/Music/Free Retro SFX by @inertsongs/SFX/::1700552139
+deadbee.wav::AudioStreamWAV::1927727110507414675::1700552089::1700552139::1::::<><>::
+dmg0.wav::AudioStreamWAV::1014473687960345750::1700552089::1700552139::1::::<><>::
+dmg1.wav::AudioStreamWAV::2816748080270039913::1700552089::1700552139::1::::<><>::
+dmg2.wav::AudioStreamWAV::1248759223454650215::1700552089::1700552139::1::::<><>::
+end.wav::AudioStreamWAV::4361939731944070405::1700552089::1700552139::1::::<><>::
+protec.wav::AudioStreamWAV::3727101969067409973::1700552089::1700552139::1::::<><>::
+stam0.wav::AudioStreamWAV::4800462521369701531::1700552089::1700552139::1::::<><>::
+stam1.wav::AudioStreamWAV::7562277667093745589::1700552089::1700552139::1::::<><>::
+stamfull.wav::AudioStreamWAV::4251724567958907565::1700552089::1700552139::1::::<><>::
+::res://Assets/FX/Music/Wild West Music - Harvey Carman/::1700552089
+::res://Assets/FX/Music/Wild West Music - Harvey Carman/MP3/::1700552102
+Confronting The Man In Black.mp3::AudioStreamMP3::1869625340942152211::1700552089::1700552102::1::::<><>::
+Fetlocks In The Wind.mp3::AudioStreamMP3::1711276481187773348::1700552089::1700552101::1::::<><>::
+Slinger Swagger (loop).mp3::AudioStreamMP3::7624254597501008625::1700552089::1700552101::1::::<><>::
+Too Late To Save The Town.mp3::AudioStreamMP3::5742995181130908328::1700552089::1700552101::1::::<><>::
+We Don't Need Railroads (loop).mp3::AudioStreamMP3::2438229340884269284::1700552089::1700552102::1::::<><>::
+We Ride At Dawn! (loop).mp3::AudioStreamMP3::3629202663509618039::1700552089::1700552102::1::::<><>::
+Whiskey Barn Dance (loop).mp3::AudioStreamMP3::5691746448854220302::1700552089::1700552102::1::::<><>::
+Whiskey Barn Dance.mp3::AudioStreamMP3::1211665322775685400::1700552089::1700552102::1::::<><>::
+::res://Assets/FX/Music/Wild West Music - Harvey Carman/OGG/::1700552113
+Confronting The Man In Black.ogg::AudioStreamOggVorbis::6845702540694574563::1700552089::1700552111::1::::<><>::
+Fetlocks In The Wind.ogg::AudioStreamOggVorbis::3928617159097701089::1700552089::1700552111::1::::<><>::
+Slinger Swagger (loop).ogg::AudioStreamOggVorbis::535491783310163199::1700552089::1700552113::1::::<><>::
+Too Late To Save The Town.ogg::AudioStreamOggVorbis::2739516995673087775::1700552089::1700552113::1::::<><>::
+We Don't Need Railroads (loop).ogg::AudioStreamOggVorbis::117336185579555949::1700552089::1700552112::1::::<><>::
+We Ride At Dawn! (loop).ogg::AudioStreamOggVorbis::8541002277061371412::1700552089::1700552110::1::::<><>::
+Whiskey Barn Dance (loop).ogg::AudioStreamOggVorbis::6616821418068557559::1700552089::1700552113::1::::<><>::
+Whiskey Barn Dance.ogg::AudioStreamOggVorbis::5980459406930282364::1700552089::1700552113::1::::<><>::
+::res://Assets/FX/Music/Wild West Music - Harvey Carman/WAV/::1700552141
+Confronting The Man In Black.wav::AudioStreamWAV::4027539390110931429::1700552089::1700552140::1::::<><>::
+Fetlocks In The Wind.wav::AudioStreamWAV::8588135332979120154::1700552089::1700552139::1::::<><>::
+Slinger Swagger (loop).wav::AudioStreamWAV::1631967775645248989::1700552089::1700552140::1::::<><>::
+Too Late To Save The Town.wav::AudioStreamWAV::1188029996851841429::1700552089::1700552139::1::::<><>::
+We Don't Need Railroads (loop).wav::AudioStreamWAV::2715925570098887657::1700552089::1700552140::1::::<><>::
+We Ride At Dawn! (loop).wav::AudioStreamWAV::4278390028713652070::1700552089::1700552139::1::::<><>::
+Whiskey Barn Dance (loop).wav::AudioStreamWAV::24315590710443911::1700552089::1700552139::1::::<><>::
+Whiskey Barn Dance.wav::AudioStreamWAV::8128233529509429564::1700552089::1700552139::1::::<><>::
+::res://Assets/FX/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/::1700552135
+Read me, fam!.txt::TextFile::-1::1700552090::0::1::::<><>::
+WildWest_1950x1300.png::CompressedTexture2D::1133117548607815686::1700552090::1700552135::1::::<><>::
+::res://Assets/FX/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/MP3/::1700552099
+Confronting The Man In Black.mp3::AudioStreamMP3::3250367097011667454::1700552089::1700552099::1::::<><>::
+Fetlocks In The Wind.mp3::AudioStreamMP3::6743907960362062561::1700552089::1700552096::1::::<><>::
+Slinger Swagger (loop).mp3::AudioStreamMP3::2443014463569766434::1700552089::1700552099::1::::<><>::
+Too Late To Save The Town.mp3::AudioStreamMP3::8972259627133647294::1700552089::1700552099::1::::<><>::
+We Don't Need Railroads (loop).mp3::AudioStreamMP3::4495842763395588935::1700552089::1700552099::1::::<><>::
+We Ride At Dawn! (loop).mp3::AudioStreamMP3::8946492270123431829::1700552089::1700552096::1::::<><>::
+Whiskey Barn Dance (loop).mp3::AudioStreamMP3::849357315061913079::1700552089::1700552099::1::::<><>::
+Whiskey Barn Dance.mp3::AudioStreamMP3::4097873872189410532::1700552089::1700552099::1::::<><>::
+::res://Assets/FX/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/OGG/::1700552111
+Confronting The Man In Black.ogg::AudioStreamOggVorbis::2313258923959903075::1700552089::1700552111::1::::<><>::
+Fetlocks In The Wind.ogg::AudioStreamOggVorbis::6654866807418814122::1700552089::1700552110::1::::<><>::
+Slinger Swagger (loop).ogg::AudioStreamOggVorbis::7178813318178430730::1700552089::1700552107::1::::<><>::
+Too Late To Save The Town.ogg::AudioStreamOggVorbis::676655654617464224::1700552089::1700552107::1::::<><>::
+We Don't Need Railroads (loop).ogg::AudioStreamOggVorbis::5634472834031037611::1700552089::1700552107::1::::<><>::
+We Ride At Dawn! (loop).ogg::AudioStreamOggVorbis::1812496292944049970::1700552089::1700552106::1::::<><>::
+Whiskey Barn Dance (loop).ogg::AudioStreamOggVorbis::3362792262473646842::1700552089::1700552106::1::::<><>::
+Whiskey Barn Dance.ogg::AudioStreamOggVorbis::1633587865156817856::1700552090::1700552106::1::::<><>::
+::res://Assets/FX/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/WAV/::1700552146
+Confronting The Man In Black.wav::AudioStreamWAV::6317385559785624986::1700552090::1700552139::1::::<><>::
+Fetlocks In The Wind.wav::AudioStreamWAV::7975785022825261120::1700552090::1700552139::1::::<><>::
+Slinger Swagger (loop).wav::AudioStreamWAV::3827224111305025828::1700552090::1700552142::1::::<><>::
+Too Late To Save The Town.wav::AudioStreamWAV::4548425744979140380::1700552090::1700552142::1::::<><>::
+We Don't Need Railroads (loop).wav::AudioStreamWAV::257861082446861158::1700552090::1700552144::1::::<><>::
+We Ride At Dawn! (loop).wav::AudioStreamWAV::2293775972606466800::1700552090::1700552142::1::::<><>::
+Whiskey Barn Dance (loop).wav::AudioStreamWAV::1264559435971950084::1700552090::1700552145::1::::<><>::
+Whiskey Barn Dance.wav::AudioStreamWAV::3424676105697767328::1700552090::1700552145::1::::<><>::
+::res://Assets/Icons/::1700552138
+armor_01a.png::CompressedTexture2D::2219629493579907680::1700552090::1700552133::1::::<><>::
+armor_01b.png::CompressedTexture2D::868699940858475848::1700552090::1700552133::1::::<><>::
+armor_01c.png::CompressedTexture2D::3601147169074401430::1700552090::1700552133::1::::<><>::
+armor_01d.png::CompressedTexture2D::72161809354492110::1700552090::1700552133::1::::<><>::
+armor_01e.png::CompressedTexture2D::2000735258442206637::1700552090::1700552133::1::::<><>::
+arrow_01a.png::CompressedTexture2D::8113259054738385322::1700552090::1700552133::1::::<><>::
+arrow_01b.png::CompressedTexture2D::310211907940383282::1700552090::1700552133::1::::<><>::
+arrow_01c.png::CompressedTexture2D::8295405629378411964::1700552090::1700552133::1::::<><>::
+arrow_01d.png::CompressedTexture2D::6383559517006842961::1700552090::1700552133::1::::<><>::
+arrow_01e.png::CompressedTexture2D::6048769075629219892::1700552090::1700552133::1::::<><>::
+arrow_02a.png::CompressedTexture2D::4972672416104552384::1700552090::1700552133::1::::<><>::
+arrow_02b.png::CompressedTexture2D::5231867378629066373::1700552090::1700552133::1::::<><>::
+arrow_02c.png::CompressedTexture2D::8383326274271851447::1700552090::1700552133::1::::<><>::
+arrow_02d.png::CompressedTexture2D::7710507569870613523::1700552090::1700552133::1::::<><>::
+arrow_02e.png::CompressedTexture2D::6494437746788895643::1700552090::1700552133::1::::<><>::
+arrow_03a.png::CompressedTexture2D::2535013793958537457::1700552090::1700552133::1::::<><>::
+arrow_03b.png::CompressedTexture2D::5227465963925302829::1700552090::1700552133::1::::<><>::
+arrow_03c.png::CompressedTexture2D::1015338616580251790::1700552090::1700552133::1::::<><>::
+arrow_03d.png::CompressedTexture2D::8798720836432814129::1700552090::1700552134::1::::<><>::
+arrow_03e.png::CompressedTexture2D::5591058539995789120::1700552090::1700552134::1::::<><>::
+bone01a.png::CompressedTexture2D::4479344887977580147::1700552090::1700552134::1::::<><>::
+book_01a.png::CompressedTexture2D::8194482978359903334::1700552090::1700552134::1::::<><>::
+book_01b.png::CompressedTexture2D::3629619397356950864::1700552090::1700552134::1::::<><>::
+book_01c.png::CompressedTexture2D::8078648016846630768::1700552090::1700552134::1::::<><>::
+book_01d.png::CompressedTexture2D::4966288351689687704::1700552090::1700552134::1::::<><>::
+book_01e.png::CompressedTexture2D::9037144108923814443::1700552090::1700552134::1::::<><>::
+book_01f.png::CompressedTexture2D::2821601296583588636::1700552090::1700552134::1::::<><>::
+book_01g.png::CompressedTexture2D::5630839633717998226::1700552090::1700552134::1::::<><>::
+book_02a.png::CompressedTexture2D::5923207520706198623::1700552090::1700552134::1::::<><>::
+book_02b.png::CompressedTexture2D::7476437819810470226::1700552090::1700552134::1::::<><>::
+book_02c.png::CompressedTexture2D::1504129046389339231::1700552090::1700552134::1::::<><>::
+book_02d.png::CompressedTexture2D::1983198200903063983::1700552090::1700552134::1::::<><>::
+book_02e.png::CompressedTexture2D::7207371448575845583::1700552090::1700552134::1::::<><>::
+book_02f.png::CompressedTexture2D::6991355040666351002::1700552090::1700552134::1::::<><>::
+book_02g.png::CompressedTexture2D::546788580389148837::1700552090::1700552134::1::::<><>::
+book_03a.png::CompressedTexture2D::2034551920958236139::1700552090::1700552134::1::::<><>::
+book_03b.png::CompressedTexture2D::3848981538235760845::1700552090::1700552134::1::::<><>::
+book_03c.png::CompressedTexture2D::1255603946052630952::1700552090::1700552134::1::::<><>::
+book_03d.png::CompressedTexture2D::3639719946798791364::1700552090::1700552134::1::::<><>::
+book_03e.png::CompressedTexture2D::5178075479228927132::1700552090::1700552134::1::::<><>::
+book_03f.png::CompressedTexture2D::2365479058065207693::1700552090::1700552134::1::::<><>::
+book_03g.png::CompressedTexture2D::4106943001940088684::1700552090::1700552134::1::::<><>::
+book_04a.png::CompressedTexture2D::7459372958389255835::1700552090::1700552134::1::::<><>::
+book_04b.png::CompressedTexture2D::3584274608201118067::1700552090::1700552134::1::::<><>::
+book_04c.png::CompressedTexture2D::143401820370218927::1700552090::1700552132::1::::<><>::
+book_04d.png::CompressedTexture2D::5605074368923858804::1700552090::1700552132::1::::<><>::
+book_04e.png::CompressedTexture2D::57177362003565821::1700552090::1700552132::1::::<><>::
+book_04f.png::CompressedTexture2D::8994104748260838057::1700552090::1700552132::1::::<><>::
+book_04g.png::CompressedTexture2D::3015756639123818690::1700552090::1700552132::1::::<><>::
+book_05a.png::CompressedTexture2D::11236536747282945::1700552090::1700552132::1::::<><>::
+book_05b.png::CompressedTexture2D::3775402894646133157::1700552090::1700552132::1::::<><>::
+book_05c.png::CompressedTexture2D::1285922829297633921::1700552090::1700552132::1::::<><>::
+book_05d.png::CompressedTexture2D::9052393429097352102::1700552090::1700552132::1::::<><>::
+book_05e.png::CompressedTexture2D::1539653132701695622::1700552090::1700552132::1::::<><>::
+book_05f.png::CompressedTexture2D::3878418874292898231::1700552090::1700552132::1::::<><>::
+book_05g.png::CompressedTexture2D::8520598043572482178::1700552090::1700552132::1::::<><>::
+book_06a.png::CompressedTexture2D::3390268465121536061::1700552090::1700552132::1::::<><>::
+book_06b.png::CompressedTexture2D::4230356622103716783::1700552090::1700552132::1::::<><>::
+book_06c.png::CompressedTexture2D::8993544585034534386::1700552090::1700552132::1::::<><>::
+book_06d.png::CompressedTexture2D::1836864888016788438::1700552090::1700552132::1::::<><>::
+book_06e.png::CompressedTexture2D::1255355839885356074::1700552090::1700552132::1::::<><>::
+book_06f.png::CompressedTexture2D::9008940815445925277::1700552090::1700552132::1::::<><>::
+book_06g.png::CompressedTexture2D::4755629906780157789::1700552090::1700552132::1::::<><>::
+boots_01a.png::CompressedTexture2D::7126433873563000431::1700552090::1700552132::1::::<><>::
+boots_01b.png::CompressedTexture2D::6791856333461543057::1700552090::1700552132::1::::<><>::
+boots_01c.png::CompressedTexture2D::1711950504168853329::1700552090::1700552132::1::::<><>::
+boots_01d.png::CompressedTexture2D::974826265277647753::1700552090::1700552132::1::::<><>::
+boots_01e.png::CompressedTexture2D::7754178584528691581::1700552090::1700552132::1::::<><>::
+bow_01a.png::CompressedTexture2D::4063309546275290504::1700552090::1700552131::1::::<><>::
+bow_01b.png::CompressedTexture2D::2242625941901240961::1700552090::1700552133::1::::<><>::
+bow_01cc.png::CompressedTexture2D::5186766375799236358::1700552090::1700552133::1::::<><>::
+bow_01d.png::CompressedTexture2D::3920440444661653518::1700552090::1700552133::1::::<><>::
+bow_01e.png::CompressedTexture2D::1620252100047357456::1700552090::1700552133::1::::<><>::
+bow_02a.png::CompressedTexture2D::7990973363789728557::1700552090::1700552133::1::::<><>::
+bow_02b.png::CompressedTexture2D::6403309975177072401::1700552090::1700552133::1::::<><>::
+bow_02cc.png::CompressedTexture2D::8712781987606713368::1700552090::1700552133::1::::<><>::
+bow_02d.png::CompressedTexture2D::1620570610941498281::1700552090::1700552133::1::::<><>::
+bow_02e.png::CompressedTexture2D::8361836611205877826::1700552090::1700552133::1::::<><>::
+bow_03a.png::CompressedTexture2D::109701063844795830::1700552090::1700552133::1::::<><>::
+bow_03b.png::CompressedTexture2D::8367138343173999309::1700552090::1700552133::1::::<><>::
+bow_03c.png::CompressedTexture2D::6533746710638590411::1700552090::1700552133::1::::<><>::
+bow_03d.png::CompressedTexture2D::4578659416764075637::1700552090::1700552133::1::::<><>::
+bow_03e.png::CompressedTexture2D::6277780813095187316::1700552090::1700552133::1::::<><>::
+candle_01a.png::CompressedTexture2D::1636064589393420469::1700552090::1700552133::1::::<><>::
+candle_01b.png::CompressedTexture2D::1349554159403414051::1700552090::1700552133::1::::<><>::
+candy_01a.png::CompressedTexture2D::8864448596494883352::1700552090::1700552133::1::::<><>::
+candy_01b.png::CompressedTexture2D::7920363162226494250::1700552090::1700552133::1::::<><>::
+candy_01c.png::CompressedTexture2D::3434511125837893287::1700552090::1700552133::1::::<><>::
+candy_01d.png::CompressedTexture2D::7806198321218425213::1700552090::1700552132::1::::<><>::
+candy_01e.png::CompressedTexture2D::491985441144557::1700552090::1700552132::1::::<><>::
+candy_01f.png::CompressedTexture2D::5664980685098906001::1700552090::1700552132::1::::<><>::
+candy_01g.png::CompressedTexture2D::6489340301153415205::1700552090::1700552132::1::::<><>::
+candy_02a.png::CompressedTexture2D::2185816207852786943::1700552090::1700552132::1::::<><>::
+candy_02b.png::CompressedTexture2D::2179904034311041925::1700552091::1700552132::1::::<><>::
+candy_02c.png::CompressedTexture2D::1839898147898467347::1700552091::1700552132::1::::<><>::
+candy_02d.png::CompressedTexture2D::5273071306567001899::1700552091::1700552136::1::::<><>::
+candy_02e.png::CompressedTexture2D::4512589773853767414::1700552091::1700552136::1::::<><>::
+candy_02f.png::CompressedTexture2D::1106257174136095584::1700552091::1700552136::1::::<><>::
+candy_02g.png::CompressedTexture2D::6271097458173968986::1700552091::1700552136::1::::<><>::
+coin_01a.png::CompressedTexture2D::3445483078656656771::1700552091::1700552136::1::::<><>::
+coin_01b.png::CompressedTexture2D::8392258177671587689::1700552091::1700552136::1::::<><>::
+coin_01c.png::CompressedTexture2D::306087360560927103::1700552091::1700552136::1::::<><>::
+coin_01d.png::CompressedTexture2D::7070106152772435119::1700552091::1700552136::1::::<><>::
+coin_01e.png::CompressedTexture2D::89642841378668695::1700552091::1700552136::1::::<><>::
+coin_02a.png::CompressedTexture2D::141189927507397505::1700552091::1700552136::1::::<><>::
+coin_02b.png::CompressedTexture2D::7714446260927806959::1700552091::1700552136::1::::<><>::
+coin_02c.png::CompressedTexture2D::3961571617638851207::1700552091::1700552136::1::::<><>::
+coin_02d.png::CompressedTexture2D::5890777524481811675::1700552091::1700552135::1::::<><>::
+coin_02e.png::CompressedTexture2D::6892666359611323823::1700552091::1700552135::1::::<><>::
+coin_03a.png::CompressedTexture2D::5984946687342258938::1700552091::1700552135::1::::<><>::
+coin_03b.png::CompressedTexture2D::6096749598893922277::1700552091::1700552135::1::::<><>::
+coin_03c.png::CompressedTexture2D::7803215656495320007::1700552091::1700552135::1::::<><>::
+coin_03d.png::CompressedTexture2D::9163225098185109738::1700552091::1700552135::1::::<><>::
+coin_03e.png::CompressedTexture2D::8927117558754221961::1700552091::1700552135::1::::<><>::
+coin_04a.png::CompressedTexture2D::1303740590491997559::1700552091::1700552135::1::::<><>::
+coin_04b.png::CompressedTexture2D::6065200378039223088::1700552091::1700552135::1::::<><>::
+coin_04c.png::CompressedTexture2D::8081463717618324835::1700552091::1700552135::1::::<><>::
+coin_04d.png::CompressedTexture2D::1984366947460974516::1700552091::1700552135::1::::<><>::
+coin_04e.png::CompressedTexture2D::7221924989373273518::1700552091::1700552135::1::::<><>::
+coin_05a.png::CompressedTexture2D::1882656978277853243::1700552091::1700552135::1::::<><>::
+coin_05b.png::CompressedTexture2D::8010786702584556168::1700552091::1700552135::1::::<><>::
+coin_05c.png::CompressedTexture2D::1816266138080531592::1700552091::1700552135::1::::<><>::
+coin_05d.png::CompressedTexture2D::4679612428119558620::1700552091::1700552135::1::::<><>::
+coin_05e.png::CompressedTexture2D::2752205010021244574::1700552091::1700552135::1::::<><>::
+cookie_01a.png::CompressedTexture2D::2183147606472372808::1700552091::1700552135::1::::<><>::
+cotton_01a.png::CompressedTexture2D::7344852569972216886::1700552091::1700552135::1::::<><>::
+crystal_01a.png::CompressedTexture2D::7156894054609079598::1700552091::1700552138::1::::<><>::
+crystal_01b.png::CompressedTexture2D::4229938200930297144::1700552091::1700552138::1::::<><>::
+crystal_01c.png::CompressedTexture2D::132610961970419969::1700552091::1700552138::1::::<><>::
+crystal_01d.png::CompressedTexture2D::4906860134493180266::1700552091::1700552138::1::::<><>::
+crystal_01e.png::CompressedTexture2D::8330234330400607414::1700552091::1700552138::1::::<><>::
+crystal_01f.png::CompressedTexture2D::4581021498286059751::1700552091::1700552138::1::::<><>::
+crystal_01g.png::CompressedTexture2D::6682412966297071704::1700552091::1700552138::1::::<><>::
+crystal_01h.png::CompressedTexture2D::8943002125990677333::1700552091::1700552138::1::::<><>::
+crystal_01i.png::CompressedTexture2D::4215628873496812385::1700552091::1700552136::1::::<><>::
+crystal_01j.png::CompressedTexture2D::5448532733008257864::1700552091::1700552138::1::::<><>::
+cup_01a.png::CompressedTexture2D::200119700028049126::1700552091::1700552138::1::::<><>::
+cup_01b.png::CompressedTexture2D::3938876031441171792::1700552091::1700552138::1::::<><>::
+cup_02a.png::CompressedTexture2D::3940336037749656518::1700552091::1700552138::1::::<><>::
+cup_02b.png::CompressedTexture2D::2162893639427081247::1700552091::1700552138::1::::<><>::
+fish_01a.png::CompressedTexture2D::5543576723788065586::1700552091::1700552138::1::::<><>::
+fish_01b.png::CompressedTexture2D::4112209110633263491::1700552091::1700552138::1::::<><>::
+fish_01c.png::CompressedTexture2D::4085413958307845821::1700552091::1700552138::1::::<><>::
+fish_01d.png::CompressedTexture2D::7392870645224911665::1700552091::1700552138::1::::<><>::
+fish_01e.png::CompressedTexture2D::3978283618766860488::1700552091::1700552138::1::::<><>::
+flower_01a.png::CompressedTexture2D::8697269129900701453::1700552091::1700552138::1::::<><>::
+flower_02a.png::CompressedTexture2D::3026600059450015992::1700552091::1700552138::1::::<><>::
+fruit_01a.png::CompressedTexture2D::3674787499392347507::1700552091::1700552134::1::::<><>::
+fruit_01b.png::CompressedTexture2D::4678566527332854457::1700552091::1700552134::1::::<><>::
+gem_01a.png::CompressedTexture2D::5348062966476614593::1700552091::1700552134::1::::<><>::
+gem_01b.png::CompressedTexture2D::3708007999076626778::1700552091::1700552134::1::::<><>::
+gem_01c.png::CompressedTexture2D::5274257382676105115::1700552091::1700552134::1::::<><>::
+gem_01d.png::CompressedTexture2D::5357132450530111844::1700552091::1700552134::1::::<><>::
+gem_01e.png::CompressedTexture2D::1517065144609490169::1700552091::1700552134::1::::<><>::
+gem_01f.png::CompressedTexture2D::4876484926277253643::1700552091::1700552134::1::::<><>::
+gem_01g.png::CompressedTexture2D::3550058512317259148::1700552091::1700552134::1::::<><>::
+gem_01h.png::CompressedTexture2D::4449763362709500232::1700552091::1700552134::1::::<><>::
+gem_01i.png::CompressedTexture2D::9010466256078578984::1700552091::1700552134::1::::<><>::
+gem_01j.png::CompressedTexture2D::5554692926230942636::1700552091::1700552134::1::::<><>::
+giftopen_01a.png::CompressedTexture2D::1466275768893485369::1700552091::1700552134::1::::<><>::
+giftopen_01b.png::CompressedTexture2D::8892271621619043019::1700552091::1700552134::1::::<><>::
+giftopen_01c.png::CompressedTexture2D::1460694939396551873::1700552091::1700552134::1::::<><>::
+giftopen_01d.png::CompressedTexture2D::3114651064686464628::1700552091::1700552134::1::::<><>::
+giftopen_01e.png::CompressedTexture2D::6936565021005348389::1700552091::1700552134::1::::<><>::
+giftopen_01f.png::CompressedTexture2D::4409151695883635440::1700552091::1700552134::1::::<><>::
+gift_01a.png::CompressedTexture2D::5566073021679141428::1700552091::1700552134::1::::<><>::
+gift_01b.png::CompressedTexture2D::3743717097643202984::1700552091::1700552134::1::::<><>::
+gift_01c.png::CompressedTexture2D::1001269280607391::1700552091::1700552134::1::::<><>::
+gift_01d.png::CompressedTexture2D::1022073574810556810::1700552091::1700552134::1::::<><>::
+gift_01e.png::CompressedTexture2D::6332901920145024447::1700552091::1700552134::1::::<><>::
+gift_01f.png::CompressedTexture2D::5351803521679992933::1700552091::1700552134::1::::<><>::
+gloves_01a.png::CompressedTexture2D::7618086331396513424::1700552091::1700552134::1::::<><>::
+gloves_01b.png::CompressedTexture2D::3114959389787404802::1700552091::1700552135::1::::<><>::
+gloves_01c.png::CompressedTexture2D::7723061697216867425::1700552091::1700552135::1::::<><>::
+gloves_01d.png::CompressedTexture2D::3337297634800822479::1700552091::1700552135::1::::<><>::
+gloves_01e.png::CompressedTexture2D::3573843049004257598::1700552091::1700552135::1::::<><>::
+hat_01a.png::CompressedTexture2D::684502766925670337::1700552091::1700552135::1::::<><>::
+hat_01b.png::CompressedTexture2D::2227932680897183020::1700552091::1700552135::1::::<><>::
+hat_01c.png::CompressedTexture2D::7348224629671359119::1700552091::1700552135::1::::<><>::
+hat_01d.png::CompressedTexture2D::5414013895894427687::1700552091::1700552135::1::::<><>::
+hat_01e.png::CompressedTexture2D::2352459333082352193::1700552091::1700552135::1::::<><>::
+hat_01f.png::CompressedTexture2D::7260094273360495834::1700552091::1700552135::1::::<><>::
+helmet_01a.png::CompressedTexture2D::7043601894042951160::1700552091::1700552135::1::::<><>::
+helmet_01b.png::CompressedTexture2D::4588377448528372840::1700552091::1700552135::1::::<><>::
+helmet_01c.png::CompressedTexture2D::635695236238101798::1700552091::1700552135::1::::<><>::
+helmet_01d.png::CompressedTexture2D::543998882587871222::1700552091::1700552135::1::::<><>::
+helmet_01e.png::CompressedTexture2D::5960017225385311553::1700552091::1700552135::1::::<><>::
+helmet_02a.png::CompressedTexture2D::2250753542618495162::1700552091::1700552135::1::::<><>::
+helmet_02b.png::CompressedTexture2D::6162415645687465202::1700552091::1700552135::1::::<><>::
+helmet_02c.png::CompressedTexture2D::9041474846096103289::1700552091::1700552135::1::::<><>::
+helmet_02d.png::CompressedTexture2D::2847467490216849994::1700552091::1700552135::1::::<><>::
+helmet_02e.png::CompressedTexture2D::908968010388927291::1700552091::1700552135::1::::<><>::
+ingot_01a.png::CompressedTexture2D::3864668683446979758::1700552091::1700552135::1::::<><>::
+ingot_01b.png::CompressedTexture2D::123034199608786618::1700552091::1700552134::1::::<><>::
+ingot_01c.png::CompressedTexture2D::4599867319864934409::1700552091::1700552134::1::::<><>::
+ingot_01d.png::CompressedTexture2D::6555604246444123035::1700552091::1700552134::1::::<><>::
+ingot_01e.png::CompressedTexture2D::1353521480874914374::1700552091::1700552134::1::::<><>::
+key_01a.png::CompressedTexture2D::4686982603508694512::1700552091::1700552134::1::::<><>::
+key_01b.png::CompressedTexture2D::3125366023675824592::1700552091::1700552126::1::::<><>::
+key_01c.png::CompressedTexture2D::8426639958873990647::1700552091::1700552126::1::::<><>::
+key_01d.png::CompressedTexture2D::4147147734266121406::1700552091::1700552126::1::::<><>::
+key_01e.png::CompressedTexture2D::1812160456407633261::1700552091::1700552126::1::::<><>::
+key_02a.png::CompressedTexture2D::7478587374162724676::1700552091::1700552126::1::::<><>::
+key_02b.png::CompressedTexture2D::3090466295883341016::1700552091::1700552125::1::::<><>::
+key_02c.png::CompressedTexture2D::6038868770620745500::1700552091::1700552125::1::::<><>::
+key_02d.png::CompressedTexture2D::3028995621720445927::1700552091::1700552125::1::::<><>::
+key_02e.png::CompressedTexture2D::2154685852707074825::1700552091::1700552125::1::::<><>::
+leaf_01a.png::CompressedTexture2D::6292144573232671705::1700552091::1700552125::1::::<><>::
+necklace_01a.png::CompressedTexture2D::4087439290164380854::1700552091::1700552125::1::::<><>::
+necklace_01b.png::CompressedTexture2D::1572663874853709235::1700552091::1700552125::1::::<><>::
+necklace_01c.png::CompressedTexture2D::2546029769016093947::1700552091::1700552125::1::::<><>::
+necklace_01d.png::CompressedTexture2D::13696577361850885::1700552091::1700552125::1::::<><>::
+necklace_01e.png::CompressedTexture2D::8819862697831434602::1700552091::1700552125::1::::<><>::
+necklace_02a.png::CompressedTexture2D::8224702684245149237::1700552091::1700552125::1::::<><>::
+necklace_02b.png::CompressedTexture2D::1792955082284792723::1700552091::1700552125::1::::<><>::
+necklace_02c.png::CompressedTexture2D::3194440935204109993::1700552091::1700552119::1::::<><>::
+necklace_02d.png::CompressedTexture2D::1365587328523820196::1700552091::1700552119::1::::<><>::
+necklace_02e.png::CompressedTexture2D::4710313461827184941::1700552091::1700552119::1::::<><>::
+necklace_03a.png::CompressedTexture2D::4802017464311922151::1700552091::1700552119::1::::<><>::
+necklace_03b.png::CompressedTexture2D::6127896060117936501::1700552091::1700552119::1::::<><>::
+necklace_03c.png::CompressedTexture2D::5993388670134581465::1700552091::1700552119::1::::<><>::
+necklace_03d.png::CompressedTexture2D::320999378394852550::1700552091::1700552119::1::::<><>::
+necklace_03e.png::CompressedTexture2D::840065686914390836::1700552091::1700552119::1::::<><>::
+pearl_01a.png::CompressedTexture2D::6443552275093921036::1700552092::1700552126::1::::<><>::
+pearl_01b.png::CompressedTexture2D::9092477033179175143::1700552092::1700552126::1::::<><>::
+pearl_01c.png::CompressedTexture2D::2973829038701192593::1700552092::1700552126::1::::<><>::
+pearl_01d.png::CompressedTexture2D::1719690945418076439::1700552092::1700552126::1::::<><>::
+pearl_01e.png::CompressedTexture2D::7555474211119563418::1700552092::1700552126::1::::<><>::
+plank_01a.png::CompressedTexture2D::3741540702185498847::1700552092::1700552126::1::::<><>::
+potion_01a.png::CompressedTexture2D::3252867161236226858::1700552092::1700552126::1::::<><>::
+potion_01b.png::CompressedTexture2D::4561817149407033581::1700552092::1700552126::1::::<><>::
+potion_01c.png::CompressedTexture2D::5351881610070216531::1700552092::1700552126::1::::<><>::
+potion_01d.png::CompressedTexture2D::7049162880101764335::1700552092::1700552126::1::::<><>::
+potion_01e.png::CompressedTexture2D::4017740940097502024::1700552092::1700552126::1::::<><>::
+potion_01f.png::CompressedTexture2D::3104494029311309206::1700552092::1700552126::1::::<><>::
+potion_01g.png::CompressedTexture2D::6192672596787542790::1700552092::1700552126::1::::<><>::
+potion_01h.png::CompressedTexture2D::3477696248617534727::1700552092::1700552126::1::::<><>::
+potion_02a.png::CompressedTexture2D::3552488591631635265::1700552092::1700552126::1::::<><>::
+potion_02b.png::CompressedTexture2D::6663580987762030687::1700552092::1700552126::1::::<><>::
+potion_02c.png::CompressedTexture2D::6857097945707212677::1700552092::1700552126::1::::<><>::
+potion_02d.png::CompressedTexture2D::2991256600012025100::1700552092::1700552126::1::::<><>::
+potion_02e.png::CompressedTexture2D::172880999999865549::1700552092::1700552126::1::::<><>::
+potion_02f.png::CompressedTexture2D::7057222469836585682::1700552092::1700552126::1::::<><>::
+potion_02g.png::CompressedTexture2D::3115361723968689183::1700552092::1700552126::1::::<><>::
+potion_02h.png::CompressedTexture2D::851904304434693434::1700552092::1700552126::1::::<><>::
+potion_03a.png::CompressedTexture2D::3960749736720655199::1700552092::1700552126::1::::<><>::
+potion_03b.png::CompressedTexture2D::79149338232831405::1700552092::1700552126::1::::<><>::
+potion_03c.png::CompressedTexture2D::7908900436985964008::1700552092::1700552126::1::::<><>::
+potion_03d.png::CompressedTexture2D::742765889084615709::1700552092::1700552114::1::::<><>::
+potion_03e.png::CompressedTexture2D::8492302322050452362::1700552092::1700552114::1::::<><>::
+potion_03f.png::CompressedTexture2D::7236579452772131971::1700552092::1700552114::1::::<><>::
+potion_03g.png::CompressedTexture2D::2451491370716288475::1700552092::1700552114::1::::<><>::
+potion_03h.png::CompressedTexture2D::9200830208980747769::1700552092::1700552113::1::::<><>::
+ring_01a.png::CompressedTexture2D::7023101811036961129::1700552092::1700552114::1::::<><>::
+ring_01b.png::CompressedTexture2D::6062373298065260754::1700552092::1700552114::1::::<><>::
+ring_01c.png::CompressedTexture2D::8091537322291219259::1700552092::1700552113::1::::<><>::
+ring_01d.png::CompressedTexture2D::3889506513455731665::1700552092::1700552114::1::::<><>::
+ring_01e.png::CompressedTexture2D::2636262243930937851::1700552092::1700552114::1::::<><>::
+ring_02a.png::CompressedTexture2D::4293408491376189672::1700552092::1700552115::1::::<><>::
+ring_02b.png::CompressedTexture2D::4816631158028954859::1700552092::1700552115::1::::<><>::
+ring_02c.png::CompressedTexture2D::2077929440834058439::1700552092::1700552116::1::::<><>::
+ring_02d.png::CompressedTexture2D::2425826896252746091::1700552092::1700552116::1::::<><>::
+ring_02e.png::CompressedTexture2D::839967613403942775::1700552092::1700552116::1::::<><>::
+ring_03a.png::CompressedTexture2D::3406182588981172244::1700552092::1700552113::1::::<><>::
+ring_03b.png::CompressedTexture2D::6176707200606372632::1700552092::1700552114::1::::<><>::
+ring_03c.png::CompressedTexture2D::7330787063336773610::1700552092::1700552116::1::::<><>::
+ring_03d.png::CompressedTexture2D::1401156086223047412::1700552092::1700552116::1::::<><>::
+ring_03e.png::CompressedTexture2D::1177422244162199396::1700552092::1700552116::1::::<><>::
+scroll_01a.png::CompressedTexture2D::5568502889137436304::1700552092::1700552116::1::::<><>::
+scroll_01b.png::CompressedTexture2D::3425936443249205784::1700552092::1700552116::1::::<><>::
+scroll_01c.png::CompressedTexture2D::8229141963165915118::1700552092::1700552116::1::::<><>::
+scroll_01d.png::CompressedTexture2D::2474151994743608900::1700552092::1700552116::1::::<><>::
+scroll_01e.png::CompressedTexture2D::2446992392135954299::1700552092::1700552119::1::::<><>::
+scroll_01f.png::CompressedTexture2D::4547776391357315420::1700552092::1700552119::1::::<><>::
+scroll_01g.png::CompressedTexture2D::524080425196535963::1700552092::1700552119::1::::<><>::
+scroll_01h.png::CompressedTexture2D::8163873544646209402::1700552092::1700552119::1::::<><>::
+shard_01a.png::CompressedTexture2D::5971374868264531129::1700552092::1700552119::1::::<><>::
+shard_01b.png::CompressedTexture2D::7226409516422479112::1700552092::1700552119::1::::<><>::
+shard_01c.png::CompressedTexture2D::6713319308863551072::1700552092::1700552119::1::::<><>::
+shard_01d.png::CompressedTexture2D::2132639393348347133::1700552092::1700552119::1::::<><>::
+shard_01e.png::CompressedTexture2D::1061255013230462331::1700552092::1700552119::1::::<><>::
+shard_01f.png::CompressedTexture2D::6016292437263549666::1700552092::1700552118::1::::<><>::
+shard_01g.png::CompressedTexture2D::4934926308311996679::1700552092::1700552118::1::::<><>::
+shard_01h.png::CompressedTexture2D::1009054004257285747::1700552092::1700552118::1::::<><>::
+shard_01i.png::CompressedTexture2D::4607704709046281056::1700552092::1700552118::1::::<><>::
+shard_01j.png::CompressedTexture2D::7475129822395692684::1700552092::1700552118::1::::<><>::
+shield_01a.png::CompressedTexture2D::4137779220260588300::1700552092::1700552118::1::::<><>::
+shield_01b.png::CompressedTexture2D::1428060161457170082::1700552092::1700552118::1::::<><>::
+shield_01c.png::CompressedTexture2D::7875130267387385065::1700552092::1700552118::1::::<><>::
+shield_01d.png::CompressedTexture2D::6983095317888779397::1700552092::1700552118::1::::<><>::
+shield_01e.png::CompressedTexture2D::539567304744811560::1700552092::1700552118::1::::<><>::
+shield_02a.png::CompressedTexture2D::6596590915146124304::1700552092::1700552117::1::::<><>::
+shield_02b.png::CompressedTexture2D::6943994279108089346::1700552092::1700552118::1::::<><>::
+shield_02c.png::CompressedTexture2D::4811729100994089504::1700552092::1700552117::1::::<><>::
+shield_02d.png::CompressedTexture2D::5847649954313336307::1700552092::1700552117::1::::<><>::
+shield_02e.png::CompressedTexture2D::5876369119471892701::1700552092::1700552117::1::::<><>::
+shield_03a.png::CompressedTexture2D::5860687238560213195::1700552092::1700552117::1::::<><>::
+shield_03b.png::CompressedTexture2D::6047747143816513486::1700552092::1700552129::1::::<><>::
+shield_03c.png::CompressedTexture2D::8794944433805000558::1700552092::1700552129::1::::<><>::
+shield_03d.png::CompressedTexture2D::2937981556246363117::1700552092::1700552129::1::::<><>::
+shield_03e.png::CompressedTexture2D::5727068112533990057::1700552092::1700552129::1::::<><>::
+skull_01a.png::CompressedTexture2D::2858901826242160024::1700552092::1700552129::1::::<><>::
+skull_01b.png::CompressedTexture2D::1097947079127387498::1700552092::1700552129::1::::<><>::
+spellbook_01a.png::CompressedTexture2D::468661525127743414::1700552092::1700552129::1::::<><>::
+spellbook_01b.png::CompressedTexture2D::5887371898537168971::1700552092::1700552129::1::::<><>::
+spellbook_01c.png::CompressedTexture2D::2906965674141189928::1700552092::1700552129::1::::<><>::
+spellbook_01d.png::CompressedTexture2D::6541191961775212743::1700552092::1700552129::1::::<><>::
+spellbook_01e.png::CompressedTexture2D::8592904504299700450::1700552092::1700552129::1::::<><>::
+spellbook_02a.png::CompressedTexture2D::7357271035810845867::1700552092::1700552129::1::::<><>::
+spellbook_02b.png::CompressedTexture2D::5347836573623081647::1700552092::1700552129::1::::<><>::
+spellbook_02c.png::CompressedTexture2D::1199584957283805543::1700552092::1700552129::1::::<><>::
+spellbook_02d.png::CompressedTexture2D::3052565025602744931::1700552092::1700552129::1::::<><>::
+spellbook_02e.png::CompressedTexture2D::4217748458031873543::1700552092::1700552129::1::::<><>::
+spellbook_03a.png::CompressedTexture2D::2128678643380712861::1700552092::1700552129::1::::<><>::
+spellbook_03b.png::CompressedTexture2D::1109967491888651542::1700552092::1700552129::1::::<><>::
+spellbook_03c.png::CompressedTexture2D::1126931924552335716::1700552092::1700552129::1::::<><>::
+spellbook_03d.png::CompressedTexture2D::6315940584256369107::1700552092::1700552129::1::::<><>::
+spellbook_03e.png::CompressedTexture2D::3061113423805336572::1700552092::1700552128::1::::<><>::
+staff_01a.png::CompressedTexture2D::5045327671806066487::1700552092::1700552128::1::::<><>::
+staff_01b.png::CompressedTexture2D::5371229961192410504::1700552092::1700552128::1::::<><>::
+staff_01c.png::CompressedTexture2D::7297025026183742667::1700552092::1700552127::1::::<><>::
+staff_01d.png::CompressedTexture2D::7597206596829175071::1700552092::1700552127::1::::<><>::
+staff_01e.png::CompressedTexture2D::4944934082015011506::1700552092::1700552130::1::::<><>::
+staff_02ab.png::CompressedTexture2D::4910739660472243359::1700552092::1700552130::1::::<><>::
+staff_02b.png::CompressedTexture2D::3755006706215846667::1700552092::1700552130::1::::<><>::
+staff_02c.png::CompressedTexture2D::113992744355713017::1700552092::1700552130::1::::<><>::
+staff_02d.png::CompressedTexture2D::8908998559551330047::1700552092::1700552130::1::::<><>::
+staff_02e.png::CompressedTexture2D::7811848304968398414::1700552092::1700552130::1::::<><>::
+staff_03a.png::CompressedTexture2D::6871586656102243830::1700552092::1700552130::1::::<><>::
+staff_03b.png::CompressedTexture2D::5013551620100126787::1700552092::1700552130::1::::<><>::
+staff_03c.png::CompressedTexture2D::2589198177627928396::1700552092::1700552130::1::::<><>::
+staff_03d.png::CompressedTexture2D::2721094472601390030::1700552092::1700552130::1::::<><>::
+staff_03e.png::CompressedTexture2D::2736184048390890538::1700552092::1700552130::1::::<><>::
+stoneblock_01a.png::CompressedTexture2D::8400886691716549629::1700552092::1700552130::1::::<><>::
+sword_01a.png::CompressedTexture2D::8766790577906648982::1700552092::1700552130::1::::<><>::
+sword_01b.png::CompressedTexture2D::4583156502290349757::1700552092::1700552130::1::::<><>::
+sword_01c.png::CompressedTexture2D::934824997659109295::1700552092::1700552130::1::::<><>::
+sword_01d.png::CompressedTexture2D::7601944801880677292::1700552092::1700552130::1::::<><>::
+sword_01e.png::CompressedTexture2D::4239313188629605586::1700552092::1700552130::1::::<><>::
+sword_02a.png::CompressedTexture2D::7530971818676858905::1700552092::1700552130::1::::<><>::
+sword_02b.png::CompressedTexture2D::5661844213064858064::1700552092::1700552129::1::::<><>::
+sword_02c.png::CompressedTexture2D::8715382542028574427::1700552092::1700552129::1::::<><>::
+sword_02d.png::CompressedTexture2D::479957021966796028::1700552092::1700552129::1::::<><>::
+sword_02e.png::CompressedTexture2D::4143930308536725567::1700552092::1700552129::1::::<><>::
+sword_03a.png::CompressedTexture2D::7499427824910316080::1700552092::1700552129::1::::<><>::
+sword_03b.png::CompressedTexture2D::1109855280312442106::1700552092::1700552129::1::::<><>::
+sword_03c.png::CompressedTexture2D::23442094719077291::1700552092::1700552129::1::::<><>::
+sword_03d.png::CompressedTexture2D::1013206253710067557::1700552092::1700552127::1::::<><>::
+sword_03e.png::CompressedTexture2D::8415180653014788162::1700552092::1700552127::1::::<><>::
+wood_01a.png::CompressedTexture2D::4445731385488916899::1700552092::1700552127::1::::<><>::
+::res://Assets/Inventory/::1700552092
+details.txt::TextFile::-1::1700552092::0::1::::<><>::
+::res://Assets/Inventory/container/::1700552127
+without_slots.png::CompressedTexture2D::4622688740351026783::1700552092::1700552127::1::::<><>::
+with_slots_variation_1.png::CompressedTexture2D::2351068137576624055::1700552092::1700552127::1::::<><>::
+with_slots_variation_2.png::CompressedTexture2D::2878263658191394355::1700552092::1700552127::1::::<><>::
+::res://Assets/Inventory/sidebar/::1700552127
+without_slots.png::CompressedTexture2D::9011464978818626330::1700552092::1700552127::1::::<><>::
+with_slots_variation_1.png::CompressedTexture2D::6536080754527373337::1700552092::1700552127::1::::<><>::
+with_slots_variation_2.png::CompressedTexture2D::2360988296014136268::1700552092::1700552127::1::::<><>::
+::res://Assets/Inventory/slots/::1700552127
+variation_1.png::CompressedTexture2D::666702786441659810::1700552092::1700552127::1::::<><>::
+variation_2.png::CompressedTexture2D::8607919458646885483::1700552092::1700552127::1::::<><>::
+::res://Assets/Inventory/slots/slot_selected/::1700552127
+static.png::CompressedTexture2D::8149683785629065092::1700552092::1700552127::1::::<><>::
+::res://Assets/Inventory/slots/slot_selected/animated/::1700552127
+spritesheet.png::CompressedTexture2D::7165057810328754760::1700552092::1700552127::1::::<><>::
+::res://Assets/Inventory/slots/slot_selected/animated/single_frames/::1700552127
+1.png::CompressedTexture2D::3234382869019249752::1700552092::1700552127::1::::<><>::
+2.png::CompressedTexture2D::407541453813162014::1700552092::1700552127::1::::<><>::
+3.png::CompressedTexture2D::2763308362011091228::1700552092::1700552127::1::::<><>::
+::res://Assets/Mobs/::1700552093
+::res://Assets/Mobs/Cactus/::1700552127
+Cactus Back Sheet.png::CompressedTexture2D::4344700792185191784::1700552092::1700552127::1::::<><>::
+Cactus Front Sheet.png::CompressedTexture2D::6515568621262168849::1700552093::1700552127::1::::<><>::
+Cactus Side Sheet.png::CompressedTexture2D::1578619007368601217::1700552093::1700552126::1::::<><>::
+::res://Assets/Mobs/Coffin/::1700552127
+Coffin Back Sheet.png::CompressedTexture2D::1902113764392617115::1700552093::1700552127::1::::<><>::
+Coffin Front Sheet.png::CompressedTexture2D::4215858613587372930::1700552093::1700552126::1::::<><>::
+Coffin Side Sheet.png::CompressedTexture2D::1520771719879122116::1700552093::1700552126::1::::<><>::
+::res://Assets/Mobs/Coyote/::1700552128
+Coyote Back Sheet.png::CompressedTexture2D::75346255080018360::1700552093::1700552126::1::::<><>::
+Coyote Front Sheet.png::CompressedTexture2D::4101765815344235057::1700552093::1700552126::1::::<><>::
+Coyote Side Sheet.png::CompressedTexture2D::291365969821027498::1700552093::1700552127::1::::<><>::
+::res://Assets/Music/::1700552093
+::res://Assets/Music/Free Retro SFX by @inertsongs/::1700552140
+Imposter Syndrome (theme).wav::AudioStreamWAV::8289574122392620875::1700552093::1700552140::1::::<><>::
+Retro PowerUP StereoUP 05.wav::AudioStreamWAV::3395829654865691507::1700552093::1700552139::1::::<><>::
+::res://Assets/Music/Free Retro SFX by @inertsongs/SFX/::1700552139
+deadbee.wav::AudioStreamWAV::4844103846804235677::1700552093::1700552139::1::::<><>::
+dmg0.wav::AudioStreamWAV::6271485249992405876::1700552093::1700552139::1::::<><>::
+dmg1.wav::AudioStreamWAV::3756972313562135625::1700552093::1700552139::1::::<><>::
+dmg2.wav::AudioStreamWAV::2417900652459479756::1700552093::1700552139::1::::<><>::
+end.wav::AudioStreamWAV::4615047156829508023::1700552093::1700552139::1::::<><>::
+protec.wav::AudioStreamWAV::8120169317666209547::1700552093::1700552139::1::::<><>::
+Retro Impact LoFi 09.wav::AudioStreamWAV::387116155661303473::1700552093::1700552139::1::::<><>::
+Retro Weapon Gun LoFi 03.wav::AudioStreamWAV::4096560784119544409::1700552093::1700552139::1::::<><>::
+stam0.wav::AudioStreamWAV::8361203181454045533::1700552093::1700552139::1::::<><>::
+stam1.wav::AudioStreamWAV::4579584712032588577::1700552093::1700552139::1::::<><>::
+stamfull.wav::AudioStreamWAV::7813661376319830255::1700552093::1700552139::1::::<><>::
+::res://Assets/Music/Wild West Music - Harvey Carman/::1700552093
+::res://Assets/Music/Wild West Music - Harvey Carman/MP3/::1700552102
+Confronting The Man In Black.mp3::AudioStreamMP3::1621610199051423455::1700552093::1700552101::1::::<><>::
+Fetlocks In The Wind.mp3::AudioStreamMP3::4500405696424561499::1700552093::1700552101::1::::<><>::
+Slinger Swagger (loop).mp3::AudioStreamMP3::3216960151664039210::1700552093::1700552101::1::::<><>::
+Too Late To Save The Town.mp3::AudioStreamMP3::5981498745445664082::1700552093::1700552101::1::::<><>::
+We Don't Need Railroads (loop).mp3::AudioStreamMP3::8789807721823633418::1700552093::1700552101::1::::<><>::
+We Ride At Dawn! (loop).mp3::AudioStreamMP3::3952527081481583907::1700552093::1700552100::1::::<><>::
+Whiskey Barn Dance (loop).mp3::AudioStreamMP3::3509337569175437499::1700552093::1700552100::1::::<><>::
+Whiskey Barn Dance.mp3::AudioStreamMP3::3300006857084184543::1700552093::1700552100::1::::<><>::
+::res://Assets/Music/Wild West Music - Harvey Carman/OGG/::1700552107
+Confronting The Man In Black.ogg::AudioStreamOggVorbis::3864949862807640542::1700552093::1700552107::1::::<><>::
+Fetlocks In The Wind.ogg::AudioStreamOggVorbis::3963728727298856867::1700552093::1700552107::1::::<><>::
+Slinger Swagger (loop).ogg::AudioStreamOggVorbis::7065690607081449614::1700552093::1700552107::1::::<><>::
+Too Late To Save The Town.ogg::AudioStreamOggVorbis::761633340684225470::1700552093::1700552107::1::::<><>::
+We Don't Need Railroads (loop).ogg::AudioStreamOggVorbis::7846268003589777840::1700552093::1700552106::1::::<><>::
+We Ride At Dawn! (loop).ogg::AudioStreamOggVorbis::2037938441360892117::1700552093::1700552106::1::::<><>::
+Whiskey Barn Dance (loop).ogg::AudioStreamOggVorbis::4218443456292650021::1700552093::1700552107::1::::<><>::
+Whiskey Barn Dance.ogg::AudioStreamOggVorbis::7131417780576919400::1700552093::1700552106::1::::<><>::
+::res://Assets/Music/Wild West Music - Harvey Carman/WAV/::1700552145
+Confronting The Man In Black.wav::AudioStreamWAV::7618355224959879984::1700552093::1700552141::1::::<><>::
+Fetlocks In The Wind.wav::AudioStreamWAV::2781060047117989948::1700552093::1700552140::1::::<><>::
+Slinger Swagger (loop).wav::AudioStreamWAV::6477045713405540579::1700552093::1700552140::1::::<><>::
+Too Late To Save The Town.wav::AudioStreamWAV::7414086318294799703::1700552093::1700552140::1::::<><>::
+We Don't Need Railroads (loop).wav::AudioStreamWAV::4070972886757684342::1700552093::1700552141::1::::<><>::
+We Ride At Dawn! (loop).wav::AudioStreamWAV::3647246236351400625::1700552093::1700552140::1::::<><>::
+Whiskey Barn Dance (loop).wav::AudioStreamWAV::355749746097341017::1700552093::1700552144::1::::<><>::
+Whiskey Barn Dance.wav::AudioStreamWAV::4805712899271438568::1700552093::1700552145::1::::<><>::
+::res://Assets/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/::1700552129
+Read me, fam!.txt::TextFile::-1::1700552093::0::1::::<><>::
+WildWest_1950x1300.png::CompressedTexture2D::5384594791903746801::1700552093::1700552128::1::::<><>::
+::res://Assets/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/MP3/::1700552101
+Confronting The Man In Black.mp3::AudioStreamMP3::7999164609775706891::1700552093::1700552101::1::::<><>::
+Fetlocks In The Wind.mp3::AudioStreamMP3::3110823530971207449::1700552093::1700552099::1::::<><>::
+Slinger Swagger (loop).mp3::AudioStreamMP3::7323626627127032379::1700552093::1700552099::1::::<><>::
+Too Late To Save The Town.mp3::AudioStreamMP3::4651880937127972578::1700552093::1700552099::1::::<><>::
+We Don't Need Railroads (loop).mp3::AudioStreamMP3::5049971373863454942::1700552093::1700552099::1::::<><>::
+We Ride At Dawn! (loop).mp3::AudioStreamMP3::6568852422412945241::1700552093::1700552096::1::::<><>::
+Whiskey Barn Dance (loop).mp3::AudioStreamMP3::7015856380464769703::1700552093::1700552099::1::::<><>::
+Whiskey Barn Dance.mp3::AudioStreamMP3::5333955694347852276::1700552093::1700552099::1::::<><>::
+::res://Assets/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/OGG/::1700552106
+Confronting The Man In Black.ogg::AudioStreamOggVorbis::1434187461606425941::1700552093::1700552106::1::::<><>::
+Fetlocks In The Wind.ogg::AudioStreamOggVorbis::1164666355057441345::1700552093::1700552106::1::::<><>::
+Slinger Swagger (loop).ogg::AudioStreamOggVorbis::8502728211550676686::1700552093::1700552106::1::::<><>::
+Too Late To Save The Town.ogg::AudioStreamOggVorbis::4067713619211184749::1700552093::1700552106::1::::<><>::
+We Don't Need Railroads (loop).ogg::AudioStreamOggVorbis::6632193549920517217::1700552093::1700552106::1::::<><>::
+We Ride At Dawn! (loop).ogg::AudioStreamOggVorbis::4716297445101764326::1700552093::1700552106::1::::<><>::
+Whiskey Barn Dance (loop).ogg::AudioStreamOggVorbis::8153964068091030547::1700552093::1700552106::1::::<><>::
+Whiskey Barn Dance.ogg::AudioStreamOggVorbis::3930951426938552758::1700552093::1700552106::1::::<><>::
+::res://Assets/Music/Wild West Music - Harvey Carman/Wild West Music - Harvey Carman/WAV/::1700552143
+Confronting The Man In Black.wav::AudioStreamWAV::1800521999338993013::1700552093::1700552142::1::::<><>::
+Fetlocks In The Wind.wav::AudioStreamWAV::50501506112491222::1700552093::1700552142::1::::<><>::
+Slinger Swagger (loop).wav::AudioStreamWAV::2157560825905119050::1700552093::1700552142::1::::<><>::
+Too Late To Save The Town.wav::AudioStreamWAV::7382308079825017519::1700552093::1700552139::1::::<><>::
+We Don't Need Railroads (loop).wav::AudioStreamWAV::767410953120550194::1700552093::1700552139::1::::<><>::
+We Ride At Dawn! (loop).wav::AudioStreamWAV::2943771423382713456::1700552093::1700552139::1::::<><>::
+Whiskey Barn Dance (loop).wav::AudioStreamWAV::1303530075620329905::1700552093::1700552139::1::::<><>::
+Whiskey Barn Dance.wav::AudioStreamWAV::1312979950127129896::1700552093::1700552142::1::::<><>::
+::res://Assets/NPC/::1700552127
+NPC's.png::CompressedTexture2D::2064636324536655497::1700552093::1700552127::1::::<><>::
+::res://Assets/Player/::1700552129
+LaTequila.ttf::FontFile::2360103652462056717::1700552093::1700552095::1::::<><>::
+Player Angle 1 Sheet.png::CompressedTexture2D::3090039344487215928::1700552093::1700552128::1::::<><>::
+Player Angle 2 Sheet.png::CompressedTexture2D::5652618772760647527::1700552093::1700552128::1::::<><>::
+Player Back Sheet.png::CompressedTexture2D::9074826336533749567::1700552093::1700552128::1::::<><>::
+Player Front Sheet.png::CompressedTexture2D::8920748306679311978::1700552093::1700552128::1::::<><>::
+Player Side Sheet.png::CompressedTexture2D::3117015061089574673::1700552093::1700552127::1::::<><>::
+Unused Walk and Shoot.png::CompressedTexture2D::1652382148683147221::1700552093::1700552127::1::::<><>::
+::res://Assets/UI/::1700552093
+::res://Assets/UI/Inventory/::1700552093
+details.txt::TextFile::-1::1700552093::0::1::::<><>::
+::res://Assets/UI/Inventory/container/::1700552127
+without_slots.png::CompressedTexture2D::1105531359132393639::1700552093::1700552127::1::::<><>::
+with_slots_variation_1.png::CompressedTexture2D::8388158365713330320::1700552093::1700552127::1::::<><>::
+with_slots_variation_2.png::CompressedTexture2D::7579463938112286866::1700552093::1700552127::1::::<><>::
+::res://Assets/UI/Inventory/sidebar/::1700552127
+without_slots.png::CompressedTexture2D::7748908152858901613::1700552093::1700552127::1::::<><>::
+with_slots_variation_1.png::CompressedTexture2D::4033416851669533696::1700552093::1700552127::1::::<><>::
+with_slots_variation_2.png::CompressedTexture2D::7462712927344757544::1700552093::1700552127::1::::<><>::
+::res://Assets/UI/Inventory/slots/::1700552127
+variation_1.png::CompressedTexture2D::2063200766273804814::1700552093::1700552127::1::::<><>::
+variation_2.png::CompressedTexture2D::7905435220257989559::1700552093::1700552127::1::::<><>::
+::res://Assets/UI/Inventory/slots/slot_selected/::1700552127
+static.png::CompressedTexture2D::216962228875807908::1700552093::1700552127::1::::<><>::
+::res://Assets/UI/Inventory/slots/slot_selected/animated/::1700552127
+spritesheet.png::CompressedTexture2D::3790589825381647334::1700552093::1700552127::1::::<><>::
+::res://Assets/UI/Inventory/slots/slot_selected/animated/single_frames/::1700552127
+1.png::CompressedTexture2D::4376871543988670139::1700552093::1700552127::1::::<><>::
+2.png::CompressedTexture2D::1406162033889832129::1700552093::1700552127::1::::<><>::
+3.png::CompressedTexture2D::4908590417623510743::1700552093::1700552127::1::::<><>::
+::res://GUI/::1700552180
+::res://Scenes/::1700552339
+Main.tscn::PackedScene::2931258609843378316::1700552339::0::1::::<><>::
+::res://Scripts/::1700552194
