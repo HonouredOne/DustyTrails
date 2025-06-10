@@ -1,13 +1,9 @@
-[gd_scene load_steps=82 format=3 uid="uid://cr3n44ywf2ggx"]
+[gd_scene load_steps=81 format=3 uid="uid://cr3n44ywf2ggx"]
 
-[ext_resource type="Script" path="res://Scripts/Player.gd" id="1_6t6f1"]
+[ext_resource type="Script" uid="uid://sy24eli1cxhb" path="res://Scripts/Player.gd" id="1_6t6f1"]
 [ext_resource type="Texture2D" uid="uid://d0djok8y1fmuk" path="res://Assets/Player/Player Front Sheet.png" id="2_h3dyf"]
 [ext_resource type="Texture2D" uid="uid://bkn51u0pped7v" path="res://Assets/Player/Player Side Sheet.png" id="3_r21a6"]
 [ext_resource type="Texture2D" uid="uid://d2j6cf5ctielj" path="res://Assets/Player/Player Back Sheet.png" id="4_er13c"]
-
-[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_0oxa2"]
-radius = 3.0
-height = 16.0
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_22cwr"]
 atlas = ExtResource("2_h3dyf")
@@ -595,15 +591,13 @@ animations = [{
 [node name="Player" type="CharacterBody2D"]
 script = ExtResource("1_6t6f1")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(0, 16)
-rotation = 1.5708
-shape = SubResource("CapsuleShape2D_0oxa2")
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+polygon = PackedVector2Array(-6, 19, 6, 19, 6, 18, 7, 18, 7, 17, 8, 17, 8, 15, 7, 15, 7, 14, 6, 14, 6, 13, -6, 13, -6, 14, -7, 14, -7, 15, -8, 15, -8, 17, -7, 17, -7, 18, -6, 18)
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+y_sort_enabled = true
 position = Vector2(1, 0)
 sprite_frames = SubResource("SpriteFrames_gsvft")
-animation = &"walk_up"
-frame_progress = 0.460935
+animation = &"idle_down"
 
 [connection signal="animation_finished" from="AnimatedSprite2D" to="." method="_on_animated_sprite_2d_animation_finished"]
